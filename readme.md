@@ -23,7 +23,7 @@ Make sure you have the following installed:
 ###  Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/g_example.git
+git clone https://github.com/girhty/g_example.git
 cd g_example
 ```
 ###   Build and Run
